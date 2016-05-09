@@ -10,7 +10,7 @@ module.exports = {
 		method: 'POST'
 	},
 
-	redisPassword : "your password here",
+	redisPassword : "409sN6ll7Lvncik5",
 
 	//Your pool coinbase address here
 	poolAddress : "0xd1e56c2e765180aa0371928fd4d1e41fbcda34d4"
